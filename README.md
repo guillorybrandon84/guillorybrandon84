@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=guillorybrandon84&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Senior Webflow Developer**
+-- 🔭 I am currently working as a **Senior Webflow Developer**
 
 
 ### 💻 Tech Stack:
